@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Give responsibilities to users here !</h1>
+    <a href="logout.php">logout</a>
     <a href="generalmanager.php">Home</a><br><br>
     <table width="95%" border="1" cellpadding="0" cellspacing="0">
         <tr>
